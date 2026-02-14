@@ -61,5 +61,5 @@ async def main():
 
 
 # Start the asyncio event loop and run the main function
-# This is required to execute async code from a script
+# This is required to execute async code file from a script
 asyncio.run(main())
